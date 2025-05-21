@@ -1,0 +1,15 @@
+
+
+
+git config --global user.name "vasant"
+
+git config --global user.email vasantprasad2002@yahoo.com
+
+
+git init G:/GitProj
+
+Cloning
+
+git clone https://github.com/sdaityari/my_git_project.git my_project
+
+git clone https://github.com/sdaityari/to-do-list.git my_proj
